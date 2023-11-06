@@ -18,7 +18,7 @@ A social network API that will allow users to share their thoughts, create a fri
 
 ## Installation
 
-git clone git@github.com:iggy-ziggy/Social-Network-API.git
+git clone https://github.com/Emareaun/Social-network-api
 
 After cloning, run `npm i` in your terminal to install dependencies. 
 
@@ -38,8 +38,8 @@ Using Insomnia or whatever program you prefer, the following routes will be avai
 ```json
 // example data
 {
-  "username": "lernantino",
-  "email": "lernantino@gmail.com"
+  "username": "jason",
+  "email": "jason@gmail.com"
 }
 ```
 
@@ -53,7 +53,7 @@ Using Insomnia or whatever program you prefer, the following routes will be avai
 // example data
 {
   "thoughtText": "Here's a cool thought...",
-  "username": "lernantino",
+  "username": "jason",
   "userId": "5edff358a0fcb779aa7b118b"
 }
 ```
@@ -82,10 +82,6 @@ Using Insomnia or whatever program you prefer, the following routes will be avai
 
 <img width="1114" alt="Screenshot 2023-09-26 at 12 04 33 PM" src="https://github.com/iggy-ziggy/Social-Network-API/assets/128410000/e0cbee19-8b1a-4ac8-8aa3-889b3b099ac2">
 
-### Demo
-
-https://watch.screencastify.com/v/IUmMRwbsLSbKGZWOCFeT
-
 ## License
 [Link to MIT License](https://opensource.org/licenses/MIT)
 
@@ -99,8 +95,8 @@ n/a
 
 ## Questions
 
-GitHub Profile: (https://github.com/iggy-ziggy)
+GitHub Profile: (https://github.com/Emareaun)
 
 If you have any questions, feel free to contact me at:
-merkabafox@gmail.com
+emareaun12345@gmail.com
 
